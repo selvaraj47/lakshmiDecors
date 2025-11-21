@@ -1,0 +1,233 @@
+{
+  "events": {
+    "birthday": [
+      {
+        "id": "bday1",
+        "title": "Princess Birthday Party",
+        "description": "Magical princess-themed birthday celebration with pink and gold decorations, fairy lights, and elegant centerpieces.",
+        "image": "images/events/birthday1.jpg",
+        "images": ["images/events/birthday1.jpg", "images/events/birthday1_2.jpg", "images/events/birthday1_3.jpg", "images/events/birthday1_4.jpg"],
+        "category": "birthday"
+      },
+      {
+        "id": "bday2",
+        "title": "Superhero Birthday Bash",
+        "description": "Action-packed superhero party with vibrant colors, themed decorations, and exciting party favors for young heroes.",
+        "image": "images/events/birthday2.jpg",
+        "images": ["images/events/birthday2.jpg", "images/events/birthday2_2.jpg", "images/events/birthday2_3.jpg"],
+        "category": "birthday"
+      },
+      {
+        "id": "bday3",
+        "title": "Elegant Adult Birthday",
+        "description": "Sophisticated birthday celebration with elegant floral arrangements, ambient lighting, and premium decorations.",
+        "image": "images/events/birthday3.jpg",
+        "images": ["images/events/birthday3.jpg", "images/events/birthday3_2.jpg", "images/events/birthday3_3.jpg", "images/events/birthday3_4.jpg"],
+        "category": "birthday"
+      },
+      {
+        "id": "bday4",
+        "title": "Princess Birthday Party",
+        "description": "Magical princess-themed birthday celebration with pink and gold decorations, fairy lights, and elegant centerpieces.",
+        "image": "images/events/birthday4.jpg",
+        "images": ["images/events/birthday4.jpg", "images/events/birthday4_2.jpg", "images/events/birthday4_3.jpg"],
+        "category": "birthday"
+      }
+    ],
+    "marriage": [
+      {
+        "id": "mar1",
+        "title": "Royal Wedding Decoration",
+        "description": "Luxurious wedding setup with grand mandap, floral arrangements, elegant lighting, and traditional decorations.",
+        "image": "images/events/marriage1.jpg",
+        "images": ["images/events/marriage1.jpg", "images/events/marriage1_2.jpg", "images/events/marriage1_3.jpg", "images/events/marriage1_4.jpg", "images/events/marriage1_5.jpg"],
+        "category": "marriage"
+      },
+      {
+        "id": "mar2",
+        "title": "Garden Wedding Theme",
+        "description": "Beautiful outdoor garden wedding with natural floral decorations, fairy lights, and romantic ambiance.",
+        "image": "images/events/marriage2.jpg",
+        "images": ["images/events/marriage2.jpg", "images/events/marriage2_2.jpg", "images/events/marriage2_3.jpg", "images/events/marriage2_4.jpg"],
+        "category": "marriage"
+      },
+      {
+        "id": "mar3",
+        "title": "Modern Wedding Setup",
+        "description": "Contemporary wedding decoration with modern design elements, elegant color schemes, and sophisticated arrangements.",
+        "image": "images/events/marriage3.jpg",
+        "images": ["images/events/marriage3.jpg", "images/events/marriage3_2.jpg", "images/events/marriage3_3.jpg"],
+        "category": "marriage"
+      },
+      {
+        "id": "mar4",
+        "title": "Traditional Wedding Mandap",
+        "description": "Classic traditional wedding mandap with intricate decorations, vibrant colors, and cultural elements.",
+        "image": "images/events/marriage4.jpg",
+        "images": ["images/events/marriage4.jpg", "images/events/marriage4_2.jpg", "images/events/marriage4_3.jpg", "images/events/marriage4_4.jpg"],
+        "category": "marriage"
+      }
+    ],
+    "baby-shower": [
+      {
+        "id": "bs1",
+        "title": "Pink Baby Shower",
+        "description": "Adorable pink-themed baby shower with cute decorations, balloons, and sweet treats for the expecting mother.",
+        "image": "images/events/babyshower1.jpg",
+        "images": ["images/events/babyshower1.jpg", "images/events/babyshower1_2.jpg", "images/events/babyshower1_3.jpg"],
+        "category": "baby-shower"
+      },
+      {
+        "id": "bs2",
+        "title": "Blue Baby Shower",
+        "description": "Charming blue-themed baby shower celebration with elegant decorations and delightful party arrangements.",
+        "image": "images/events/babyshower2.jpg",
+        "images": ["images/events/babyshower2.jpg", "images/events/babyshower2_2.jpg", "images/events/babyshower2_3.jpg", "images/events/babyshower2_4.jpg"],
+        "category": "baby-shower"
+      },
+      {
+        "id": "bs3",
+        "title": "Gender Neutral Baby Shower",
+        "description": "Beautiful neutral-toned baby shower with modern decorations, pastel colors, and elegant party setup.",
+        "image": "images/events/babyshower3.jpg",
+        "images": ["images/events/babyshower3.jpg", "images/events/babyshower3_2.jpg", "images/events/babyshower3_3.jpg"],
+        "category": "baby-shower"
+      }
+    ],
+    "festivals": [
+      {
+        "id": "fest1",
+        "title": "Diwali Decoration",
+        "description": "Festive Diwali decoration with diyas, rangoli, lights, and traditional festive arrangements for a bright celebration.",
+        "image": "images/events/festival1.jpg",
+        "images": ["images/events/festival1.jpg", "images/events/festival1_2.jpg", "images/events/festival1_3.jpg", "images/events/festival1_4.jpg"],
+        "category": "festivals"
+      },
+      {
+        "id": "fest2",
+        "title": "Ganesh Chaturthi Setup",
+        "description": "Grand Ganesh Chaturthi decoration with elaborate pandal, floral garlands, and traditional festive elements.",
+        "image": "images/events/festival2.jpg",
+        "images": ["images/events/festival2.jpg", "images/events/festival2_2.jpg", "images/events/festival2_3.jpg"],
+        "category": "festivals"
+      },
+      {
+        "id": "fest3",
+        "title": "Holi Celebration",
+        "description": "Colorful Holi festival decoration with vibrant colors, festive arrangements, and joyful party setup.",
+        "image": "images/events/festival3.jpg",
+        "images": ["images/events/festival3.jpg", "images/events/festival3_2.jpg", "images/events/festival3_3.jpg", "images/events/festival3_4.jpg"],
+        "category": "festivals"
+      },
+      {
+        "id": "fest4",
+        "title": "Navratri Decoration",
+        "description": "Beautiful Navratri festival decoration with traditional elements, colorful drapes, and festive lighting.",
+        "image": "images/events/festival4.jpg",
+        "images": ["images/events/festival4.jpg", "images/events/festival4_2.jpg", "images/events/festival4_3.jpg"],
+        "category": "festivals"
+      }
+    ],
+    "outdoor": [
+      {
+        "id": "out1",
+        "title": "Garden Party Setup",
+        "description": "Elegant outdoor garden party with natural decorations, ambient lighting, and beautiful floral arrangements.",
+        "image": "images/events/outdoor1.jpg",
+        "images": ["images/events/outdoor1.jpg", "images/events/outdoor1_2.jpg", "images/events/outdoor1_3.jpg"],
+        "category": "outdoor"
+      },
+      {
+        "id": "out2",
+        "title": "Beach Party Decoration",
+        "description": "Fun beach-themed outdoor party with tropical decorations, vibrant colors, and relaxed party atmosphere.",
+        "image": "images/events/outdoor2.jpg",
+        "images": ["images/events/outdoor2.jpg", "images/events/outdoor2_2.jpg", "images/events/outdoor2_3.jpg", "images/events/outdoor2_4.jpg"],
+        "category": "outdoor"
+      },
+      {
+        "id": "out3",
+        "title": "Corporate Outdoor Event",
+        "description": "Professional outdoor corporate event setup with elegant decorations and sophisticated arrangements.",
+        "image": "images/events/outdoor3.jpg",
+        "images": ["images/events/outdoor3.jpg", "images/events/outdoor3_2.jpg", "images/events/outdoor3_3.jpg"],
+        "category": "outdoor"
+      },
+      {
+        "id": "out4",
+        "title": "Lawn Wedding Decoration",
+        "description": "Beautiful lawn wedding setup with elegant decorations, floral arches, and romantic outdoor ambiance.",
+        "image": "images/events/outdoor4.jpg",
+        "images": ["images/events/outdoor4.jpg", "images/events/outdoor4_2.jpg", "images/events/outdoor4_3.jpg", "images/events/outdoor4_4.jpg"],
+        "category": "outdoor"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "rev1",
+      "name": "Priya Sharma",
+      "rating": 5,
+      "comment": "Lakshmi Decors made our wedding absolutely magical! The decorations were stunning and exceeded our expectations.",
+      "event": "Marriage"
+    },
+    {
+      "id": "rev2",
+      "name": "Rahul Mehta",
+      "rating": 5,
+      "comment": "Amazing service for our daughter's birthday party. Professional team and beautiful decorations. Highly recommended!",
+      "event": "Birthday"
+    },
+    {
+      "id": "rev3",
+      "name": "Anita Patel",
+      "rating": 5,
+      "comment": "The baby shower decoration was perfect! Every detail was taken care of. Thank you for making it special.",
+      "event": "Baby Shower"
+    },
+    {
+      "id": "rev4",
+      "name": "Vikram Singh",
+      "rating": 5,
+      "comment": "Best Diwali decoration service in town! Our home looked absolutely beautiful. Great work!",
+      "event": "Festival"
+    },
+    {
+      "id": "rev5",
+      "name": "Sneha Reddy",
+      "rating": 5,
+      "comment": "Outdoor party setup was fantastic! The team was professional and the decorations were elegant.",
+      "event": "Outdoor"
+    },
+    {
+      "id": "rev6",
+      "name": "Kiran Desai",
+      "rating": 5,
+      "comment": "Excellent service for our corporate event. Professional, timely, and beautiful decorations. Will definitely use again!",
+      "event": "Outdoor"
+    }
+  ],
+  "entertainment": [
+    {
+      "id": "ent1",
+      "title": "DJ Services",
+      "description": "Professional DJ services with high-quality sound systems, music mixing, and party entertainment.",
+      "image": "images/entertainment/dj.jpg",
+      "icon": "🎵"
+    },
+    {
+      "id": "ent2",
+      "title": "Paper Guns",
+      "description": "Fun and exciting paper gun entertainment for parties and celebrations, adding joy to your events.",
+      "image": "images/entertainment/paperguns.jpg",
+      "icon": "🎉"
+    },
+    {
+      "id": "ent3",
+      "title": "Lighting Services",
+      "description": "Professional lighting solutions including LED lights, fairy lights, stage lighting, and ambient lighting setups.",
+      "image": "images/entertainment/lighting.jpg",
+      "icon": "💡"
+    }
+  ]
+}
